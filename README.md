@@ -18,4 +18,8 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
+<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=DanBel1kov&show_icons=true&theme=dracula)
