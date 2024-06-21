@@ -1,10 +1,8 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝘿𝙖𝙣𝙞𝙞𝙡!
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/DanBel1kov)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/DanBel1kov)
+
 
 𝙆𝙚𝙚𝙣 𝙤𝙣 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
 
