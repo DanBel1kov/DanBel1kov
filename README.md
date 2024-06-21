@@ -17,15 +17,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 
-<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
-
-
-<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
-
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=DanBel1kov&show_icons=true&theme=dracula)
