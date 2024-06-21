@@ -17,7 +17,7 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![DeepFake Detection](https://svg.bookmark.style/api?url=https://github.com/DanBel1kov/deepfakes&mode=light&style=horizontal)](https://github.com/DanBel1kov/deepfakes)
-
+[![DeepFake Detection](https://svg.bookmark.style/api?url=https://github.com/pshakhmin/deepfakes&mode=light&style=horizontal)](https://github.com/pshakhmin/deepfakes)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
