@@ -12,11 +12,5 @@
 [![DeepFake Detection](https://svg.bookmark.style/api?url=https://github.com/pshakhmin/deepfakes&mode=light&style=horizontal)](https://github.com/pshakhmin/deepfakes)
 [![Image2Text Exploration](https://svg.bookmark.style/api?url=https://github.com/DanBel1kov/text-image-matching&mode=light&style=horizontal)]((https://github.com/DanBel1kov/text-image-matching))
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=DanBel1kov&show_icons=true&theme=dracula)
